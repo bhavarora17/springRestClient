@@ -1,4 +1,4 @@
-package bhavya.springframework.springrestclient.bhavya.springframework.springrestclient;
+package bhavya.springframework.springrestclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

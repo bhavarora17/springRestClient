@@ -1,4 +1,4 @@
-package bhavya.springframework.springrestclient;
+package bhavya.springframework;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

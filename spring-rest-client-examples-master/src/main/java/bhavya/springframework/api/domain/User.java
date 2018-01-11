@@ -1,5 +1,5 @@
 
-package bhavya.springframework.springrestclient.api.domain;
+package bhavya.springframework.api.domain;
 
 import java.io.Serializable;
 import java.util.HashMap;
